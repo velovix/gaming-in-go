@@ -5,6 +5,6 @@ found [on YouTube][playlist].
 
 ## Licensing
 
-This example code is under the public domain using the unlicense.
+This example code has been placed under the public domain.
 
 [playlist]: https://www.youtube.com/playlist?list=PLOXvU5Ov-cqpjd1_OnczdizY0I64OfH-T
